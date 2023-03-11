@@ -12,4 +12,4 @@ A (not so) small JS script for batch-downloading images from Booru services.
 5. Weeeeee
 
 ## Known Bugs:
-- Gelbooru may throw an ECONNRESET or Connection timeout error at your face after the download of a page has finished. Use the `START` variable in the config appropriately to avoid having to redownload everything from the beginning for now.
+- Gelbooru may throw an ECONNRESET or Connection timeout error at your face after the download of a page has finished. Alter the `START` variable in the config accordingly if you run into such error to avoid having to redownload everything from the beginning for now.
