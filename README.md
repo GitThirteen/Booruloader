@@ -5,10 +5,10 @@ A (not so) small JS script for batch-downloading images from Booru services.
 [![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/gluten-free.svg)](https://forthebadge.com)
 
 ## How to use:
-1. Download nodeJS (12+) if you haven't already: https://nodejs.org/en/
+1. Download nodeJS (15+) if you haven't already: https://nodejs.org/en/
 2. Download and move the booruloader.js into a folder of choice
 3. Open the script and set up the config with the required data
-4. Run the file from the console via `node <filename>` (e.g., `node booruloader`)
+4. Run the file from the console via `node <filename>.mjs` (e.g., `node booruloader.mjs`)
 5. Weeeeee
 
 ## Known Bugs:
